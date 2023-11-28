@@ -1,6 +1,7 @@
 # **Exercise: URL Shortener**
 
- You are tasked with implementing a basic URL shortener in Go. The shortener should be able to shorten a given URL and redirect to the original URL when the shortened version is accessed.
+ You are tasked with implementing a basic URL shortener in Go.
+ The shortener should be able to shorten a given URL and redirect to the original URL when the shortened version is accessed.
  
 
 #### Here are the basic requirements:
