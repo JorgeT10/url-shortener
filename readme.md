@@ -19,3 +19,8 @@
    - Ensure that the shortened URLs are unique.
    
    - Implement basic error handling.
+
+#### Tips for the interview
+
+- Consider writing test scenarios and validating them with the interviewer.
+- The short URL should not have a valid domain, just a fake domain will be fine.
