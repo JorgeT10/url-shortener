@@ -1,10 +1,5 @@
 package main
 
-import (
-	"errors"
-	"fmt"
-)
-
 type URLShortener struct {
 	urlMap map[string]string
 }
@@ -17,10 +12,12 @@ func NewURLShortener() *URLShortener {
 
 func (u *URLShortener) ShortenURL(originalURL string) string {
 	// Your implementation here
+	return ""
 }
 
 func (u *URLShortener) Redirect(shortURL string) (string, error) {
 	// Your implementation here
+	return "", nil
 }
 
 func main() {
